@@ -20,8 +20,9 @@
   </component>
   <component name="ProjectId" id="1ok1CR9vqNfCz1259iNH3kKXLeZ" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="D:/PycharmProjects/AMO" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -81,7 +82,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
