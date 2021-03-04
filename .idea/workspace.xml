@@ -36,7 +36,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Lab2">
+  <component name="RunManager" selected="Python.Laba_2">
     <configuration name="8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AMO" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab2.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Taras\Documents\GitHub\AMO\2_8\Lab2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,18 +80,18 @@
       <method v="2" />
     </configuration>
     <configuration name="Laba_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AMO" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="D:\Anaconda\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Laba_2.py" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="C:\Users\Taras\Documents\GitHub\AMO\2_16\Laba_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,8 +102,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab2" />
         <item itemvalue="Python.Laba_2" />
+        <item itemvalue="Python.Lab2" />
         <item itemvalue="Python.8" />
       </list>
     </recent_temporary>
