@@ -96,7 +96,7 @@ def new_window():
     window.title("Інфо")
     window.geometry("280x180")
     label3 = Label(window, text=text2, font="Ariel 18", width=20, height=15, bg="yellow").place(x=0,
-                                                                                                     y=-115)
+                                                                                                y=-115)
 
 
 def graphic4():
@@ -129,7 +129,7 @@ def graphic4():
     ax = fig.add_subplot(111, label="1")
 
     ax.plot(x_int, y_arg, color="C3")
-    ax.set_xlabel("Похибка sin(x)", color="C1")
+    ax.set_xlabel("Похибка cos(x+cosx^3)", color="C1")
     ax.tick_params(axis='x', colors="C1")
     ax.tick_params(axis='y', colors="C1")
 
