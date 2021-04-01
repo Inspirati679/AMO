@@ -45,6 +45,8 @@ class Main:
             plt.scatter(self.first, (np.sin(self.first + np.pi / 2) ** 2) - (self.first ** 2) / 4, c="r")
         plt.show()
 
+
+
     def yrav(self,x):
         y = (np.sin(x + np.pi / 2) ** 2) - (x ** 2) / 4
         return y
@@ -65,6 +67,7 @@ class Main:
     def result(self):
         self.first=self.counts(1)
         self.second=self.counts(3)
+
         if float(self.entry1.get()) < self.second:
             self.main_label=Label(self.root, text="Відповідь:"+str(self.second), bg="yellow", font=("Times", 15))
             self.main_label.place(y=250, x=50)
