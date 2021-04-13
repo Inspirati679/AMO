@@ -1,7 +1,7 @@
 from tkinter import *
 import matplotlib.pyplot as plt
 import numpy as np
-
+print("Моя")
 class Main:
     def __init__(self):
         self.window()
